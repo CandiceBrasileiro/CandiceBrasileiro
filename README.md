@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello world! 
+## Eu sou a Candice Brasileiro. Desenvolvedora Full-Stack React e NodeJs!
+
+- 👩🏾‍💻 Atualmente estou trabalhando com React, NodeJs, TypeScript e Svelte.
+- 🌱 Tenho me dedicado a aprender TypeScript.
+- 😄 Meus pronomes: ela/dela.
+
+
+ 
+
 
 <!--
 **CandiceBrasileiro/CandiceBrasileiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
