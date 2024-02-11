@@ -1,10 +1,14 @@
-### Hello world! 
-## Eu sou a Candice Brasileiro. Desenvolvedora Full-Stack React e NodeJs!
 
-- 👩🏾‍💻 Atualmente estou trabalhando com React, NodeJs, TypeScript e Svelte.
-- 🌱 Tenho me dedicado a aprender TypeScript.
-- 😄 Meus pronomes: ela/dela.
+<h1><strong> Hi there, I'm Candice from Brasil 🇧🇷 </strong></h1>
+I'm a Full-Stack developer React and NodeJs!
 
+
+
+- 👩‍💻    I'm currently working with TypeScript and Svelte.
+- 🌱    I spent time focusing on React and NodeJs.
+- 🕰️    Lately I've been dedicating my free time to learning TypeScript.
+- 👩    My pronouns: she/her.
+- 👩‍👩‍👧‍👧   I want to become an excellent developer who can contribute to the technology community and society.
 
  
 
